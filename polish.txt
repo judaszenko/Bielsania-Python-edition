@@ -1,0 +1,26 @@
+Kraina Bielsania to kraina znajdująca się we wschodniej Europie w latach 1100-1200, zlokalizowana jest w kotlinie otoczonej górami. Na jej terenie znajdują się 3 kluczowe miejscowości: Bielsania czyli stolica i zarazem miasto portowe, Litynia oraz Godziburg. Jesteś czeladnikiem kowala Michniarda w Bielsanii.
+Michniard jest starszym kowalem o dużym doświadczeniu. Bardzo entuzjastycznie podszedł do tego, że może nauczyć cię fachu. Całe miasto oraz straż zbroi się u niego. Musi byc profesjonalistą
+Pewnego dnia gdy zachodził już zmierzch, za oknem rozległ się krzyk. Chwilę później do lokalu wbiegł losowy przechodzień...
+Przechodzień: "LUDZIE! RATUJCIE SIĘ! ZNOWU ATAKUJĄ!"
+Michniard zabrał topór wiszący nad wejściem do lokalu i wyszedł z tobą na ulicę aby zobaczyć co się dzieje.
+Na ulicy oświetlonej ciepłym światłem pochodni panował chaos, ludzie chaotycznie próbowali uciec jak najdalej, minęło was trzech jeźdźcców na koniach, pędzących w kierunku zamku. Michniard wyskoczył do przodu widząc czwartego jeźdźcca i zrzucił go toporem z wierzchowca, raniąc go śmiertelnie. Następnie podchpodząc do niego, wyjął z jego kieszeni list i przejrzał go wzrokiem
+Michniard: Znowu Wojmirowcy. Schowajmy się, zaraz będzie ich tu jeszcze więcej
+Michniard chwycił cię za rękę i barykadując wejście do pracowni, zszedł z tobą do piwnicy. Z pola nadal dobiegały odgłosy jadących koni i walki.
+Ty: Co to za list, kim są Wojmirowcy? Możesz mi cokolwiek wyjaśnić? Dlaczego oni tak Panikują?
+Michniard: Miałem nadzieję że uchowam to przed tobą w tajemnicy ale widocznie muszę wyjaśnić ci, dlaczego znajduję się akurat tutaj i jestem kowalem.
+Michniard: Wiele lat temu krainą rządził Wojmir, potężny paladyn wywodzący się z Litynii. Opanował sztuki magiczne do tego stopnia, że pokonanie całej armii królewskiej nie sprawiło mu żadnego problemu. Właśnie wtedy w krainie zaczęły rosnąć ruchy oporu, jednak wszystko czego próbowali ludzie, prowadziło do niczego. Ale był pewien człowiek, mój bliski niegdyś przyjaciel, który odkrył ścieżkę Wojmira. Zwał się Jaźwa. Dzięki zrozumieniu potęgi Wojmira, wiedział że jedyną szansą na powstrzymanie go jest stworzenie artefaktu, który uwięzi Wojmira na zawsze na wyspie w pobliżu Bielsanii, zwanej Serwernią. Artefakt musiał zostać rozerwany na cztery części, i ukryty w miejscach, w których nikt ich nie znajdzie.
+Jednak... Każdy czar musi wykorzystać jakąś siłę, i w tym przypadku zaklęcie wymagało całej energii życiowej Jaźwy. Powiedział mi o tym wcześniej... Sprzeciwiałem się temu pomysłowi do końca, ale była niewielka szansa, że gdyby przygotował się do przyzwania tego artefaktu, nic by mu się nie stało.
+Ty: Czyli poświęcił życie dla dobra Bielsanii
+Michniard: tak...
+Michniard: Od tej chwili obiecałem sobie że dopóki żyję, nigdy więcej nie dopuszczę aby Bielsania wpadła znów w niewolę. Dlatego zostałem kowalem. Nie ma zawodu, który gwarantowałby większe bezpieczeństo ludzi, jak wyposażenie ich samych w broń.
+Ty: Ale jednak ludzie nie są w stanie ich powstrzymać
+Michniard: Tego się właśnie obawiałem... Po uwięzieniu Wojmira w artefakcie, został on ukryty w Serwernii. Istnieje jednak sposób, aby go uwolnić, i ludzie którzy najechali na naszą osadę dzisiaj, zrobili to z zamiarem kradzieży ze skarbca fragmentu tego artefaktu.
+Głosy na zewnątrz ustały
+Michniard: Wygląda na to, że udało im się szybciej niż się spodziewałem.
+Wyszliście z piwnicy, na zamroczonym dworze ludzie zaczęli się zbierać do siebie. Do Michniarda przyszedł jeden ze strażników króla
+Strażnik: Niestety udało im się...
+Michniard widocznie spodziewał się takiego scenariusza
+Michniard: Idź do Litynii. W klasztorze odnajdziesz kapłana imieniem Stanir. Powiadom go o sytuacji.
+1. Wróć do Michniarda
+2. Udaj się do litynii
+Gra jest w wersji DEMO i nie została jeszcze ukończona. Niedługo wyjdzie pełna wersja. Dziękuję za zagranie :)

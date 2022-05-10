@@ -1,0 +1,26 @@
+The land of Bielsania is a land located in Eastern Europe in the years 1100-1200, it is located in a valley surrounded by mountains. There are 3 key towns on its territory: Bielsania, the capital and port city, Litynia and Godziburg. You are an apprentice of the blacksmith Michniard in Bielsania.
+Michniard is a senior blacksmith with a lot of experience. He was very enthusiastic about the fact that he can teach you the trade. The whole city and the guards are armed with him. He must be a professional
+One day, when it was already dusk, a scream rang outside the window. Moments later, a random passerby ran into the place ...
+Passerby: "PEOPLE! SAVE YOURSELF! AGAIN ATTACK!"
+Michniard took the ax hanging above the entrance to the premises and went with you to the street to see what was going on.
+Chaos reigned in the street lit by the warm torchlight, people chaotically tried to run as far as possible, you passed three riders on horses rushing towards the castle. Michniard leapt forward seeing the fourth rider and hurled him with his ax from his mount, fatally wounding him. Then, as he approached him, he took a letter from his pocket and looked at it
+Michniard: Wojmirowcy. Let's hide, there will be more of them here soon
+Michniard grabbed your hand and, barricading the entrance to the studio, went down with you to the basement. The sounds of horses riding and fighting were still coming from the field.
+You: What is this letter, who are the Wojmirowcy? Can you explain anything to me? Why are they so panicking?
+Michniard: I was hoping to keep it a secret from you, but apparently I have to explain to you why I'm here and I'm a blacksmith.
+Michniard: Many years ago, the land was ruled by Wojmir, a powerful paladin from Lithynia. He mastered the arts to such an extent that defeating the entire royal army was not a problem for him. It was then that resistance movements began to grow in the land, but everything that people tried was going to get nowhere. But there was a man, a once close friend of mine, who discovered the path of Wojmir. It was called Jaźwa. By understanding Wojmir's power, he knew that the only chance to stop him was to create an artifact that would imprison Wojmir forever on an island near Bielsania, called the Server Room. The artifact had to be torn into four pieces and hidden in places where no one would find it.
+However ... Every spell has to use some force, and in this case the spell took all the life energy of the Self. He told me about it before ... I resisted the idea to the end, but there was a small chance that if he had prepared to summon this artifact, he would be okay.
+You: So he sacrificed his life for the good of Bielsania
+Michniard: yes ...
+Michniard: From that moment on, I promised myself that as long as I was alive, I would never let Bielsania fall into captivity again. That's why I became a blacksmith. There is no profession that guarantees people greater safety than equipping themselves with weapons.
+You: But still, people are not able to stop them
+Michniard: That's what I was afraid of ... After Wojmir was imprisoned in the artifact, he was hidden in the Server Room. However, there is a way to free him, and the people who invaded our settlement today did it with the intention of stealing a fragment of this artifact from the treasury.
+Outside, the voices stopped
+Michniard: It looks like they made it faster than I expected.
+You left the basement, in the darkened court people started gathering together. One of the king's guards came to Michniard
+Ranger: Unfortunately, they managed to ...
+Michniard apparently expected such a scenario
+Michniard: Go to Lithynia. In the monastery, you will find a priest named Stanir. Let him know about the situation.
+1. Return to Michniard
+2. Go to the lithinia
+The game is in a DEMO version and has not been completed yet. The full version will be out soon. Thank you for playing :)

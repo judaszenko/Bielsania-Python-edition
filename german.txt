@@ -1,0 +1,26 @@
+Das Land Bielsania ist ein Land in Osteuropa in den Jahren 1100-1200, es liegt in einem von Bergen umgebenen Tal. Es gibt 3 wichtige Städte auf seinem Territorium: Bielsania, die Hauptstadt und Hafenstadt, Litynia und Godziburg. Du bist Lehrling beim Schmied Michniard in Bielsania.
+Michniard ist ein erfahrener Schmied. Er war sehr begeistert, dass er einem das Handwerk beibringen kann. Die ganze Stadt und die Wachen sind mit ihm bewaffnet. Er muss ein Profi sein
+Eines Tages, als es bereits dunkel wurde, ertönte ein Schrei aus dem Fenster. Augenblicke später rannte ein zufälliger Passant in den Ort ...
+Passant: "LEUTE! RETET DICH SELBST! WIEDER ANGRIFF!"
+Michniard nahm die Axt, die über dem Eingang des Geländes hängt, und ging mit Ihnen auf die Straße, um zu sehen, was los war.
+Chaos herrschte auf der Straße im warmen Fackelschein, die Leute versuchten chaotisch so weit wie möglich zu rennen, man kam an drei Reitern vorbei, die auf das Schloss zurasten. Michniard sprang vor, als er den vierten Reiter sah, schleuderte ihn mit seiner Axt von seinem Pferd und verwundete ihn tödlich. Dann, als er sich ihm näherte, nahm er einen Brief aus der Tasche und sah ihn an
+Michniard: Wojmirowcy. Verstecken wir uns, es werden bald mehr davon hier sein
+Michniard packte deine Hand und ging mit dir hinunter in den Keller, verbarrikadierte den Eingang zum Atelier. Die Geräusche von reitenden und kämpfenden Pferden drang noch immer vom Feld her.
+Sie: Was ist dieser Brief, wer sind die Wojmirowcy? Können Sie mir etwas erklären? Warum geraten sie so in Panik?
+Michniard: Ich hatte gehofft, es vor dir geheim zu halten, aber anscheinend muss ich dir erklären, warum ich hier bin und Schmied bin.
+Michniard: Vor vielen Jahren wurde das Land von Wojmir regiert, einem mächtigen Paladin aus Litauen. Er beherrschte die Künste so weit, dass es für ihn kein Problem war, die gesamte königliche Armee zu besiegen. Damals begannen Widerstandsbewegungen im Land zu wachsen, aber alles, was die Leute versuchten, führte zu nichts. Aber es gab einen Mann, einen einstmals engen Freund von mir, der den Weg von Wojmir entdeckte. Es wurde Jawa genannt. Da er Wojmirs Macht verstand, wusste er, dass die einzige Chance, ihn aufzuhalten, darin bestand, ein Artefakt zu erschaffen, das Wojmir für immer auf einer Insel in der Nähe von Bielsania einsperren würde, dem Serverraum. Das Artefakt musste in vier Teile gerissen und an Orten versteckt werden, an denen es niemand finden würde.
+Allerdings ... Jeder Zauber muss etwas Kraft aufwenden, und in diesem Fall hat der Zauber die gesamte Lebensenergie des Selbst genommen. Er hat mir schon einmal davon erzählt ... Ich habe mich bis zum Ende dagegen gewehrt, aber es bestand eine kleine Chance, dass es ihm gut gehen würde, wenn er sich darauf vorbereitet hätte, dieses Artefakt zu beschwören.
+Sie: Also hat er sein Leben zum Wohle von Bielsania geopfert
+Michniard: ja ...
+Michniard: Von diesem Moment an habe ich mir geschworen, dass ich Bielsania, solange ich lebe, nie wieder in Gefangenschaft geraten lassen würde. Deshalb bin ich Schmied geworden. Es gibt keinen Beruf, der den Menschen mehr Sicherheit garantiert, als sich mit Waffen auszurüsten.
+Sie: Aber die Leute können sie trotzdem nicht aufhalten
+Michniard: Das habe ich befürchtet ... Nachdem Wojmir in dem Artefakt eingesperrt war, wurde er im Serverraum versteckt. Es gibt jedoch einen Weg, ihn zu befreien, und die Leute, die heute in unsere Siedlung eingedrungen sind, haben dies mit der Absicht getan, ein Fragment dieses Artefakts aus der Schatzkammer zu stehlen.
+Draußen verstummten die Stimmen
+Michniard: Es sieht so aus, als hätten sie es schneller geschafft, als ich erwartet hatte.
+Du hast den Keller verlassen, im verdunkelten Hof haben sich die Leute versammelt. Einer der Wächter des Königs kam nach Michniard
+Ranger: Leider haben sie es geschafft ...
+Michniard hat offenbar mit einem solchen Szenario gerechnet
+Michniard: Geh nach Litauen. Im Kloster finden Sie einen Priester namens Stanir. Informieren Sie ihn über die Situation.
+1. Rückkehr nach Michniard
+2. Geh in die lithinia
+Das Spiel befindet sich in einer DEMO-Version und ist noch nicht fertiggestellt. Die Vollversion wird bald erscheinen. Danke für das Spiel :)
